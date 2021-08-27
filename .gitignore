@@ -19,6 +19,7 @@
 ### Android ###
 # Built application files
 *.apk
+!/app/apkfiles/iNoteApp.apk
 *.aar
 *.ap_
 *.aab
